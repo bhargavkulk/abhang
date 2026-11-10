@@ -1,0 +1,3 @@
+[submodule "marathi_text_wikisource"]
+	path = marathi_text_wikisource
+	url = https://github.com/bhargavkulk/marathi_text_wikisource
